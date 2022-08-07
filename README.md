@@ -6,3 +6,4 @@ Os algoritmos deste repositório são:
 - Algoritmo de ElGamal (Somente Links e Referências)
 - Cifra de César
 - Cifra de Feistel
+- Sistema de Criptografia de Rabin
