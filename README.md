@@ -4,4 +4,4 @@ Criptografia e métodos de BruteForce. Todos os códigos foram feitos com Jupyte
 Os algoritmos deste repositório são:
 
 - Cifra de César
-- Análise de Frequência
+- Cifra de Feistel
