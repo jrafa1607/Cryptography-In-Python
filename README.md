@@ -8,5 +8,7 @@ Além dos códigos, links e referências a outras aplicações sobre criptografi
 - [x] Github Example: https://github.com/RyanRiddle/elgamal
 
 #### Sistema de Criptografia de Rabin
-- [x] Python Example: https://www.geeksforgeeks.org/elgamal-encryption-algorithm/
-- [x] Github Example: https://github.com/RyanRiddle/elgamal
+- [x] About the Crypography System: https://www.w3.org/History/1993/WWW/AccessAuthorization/Rabin.html
+- [x] Implementation Example: https://www.geeksforgeeks.org/rabin-cryptosystem-with-implementation/
+- [x] Github Example 1: https://github.com/iamvpa/DeterministicRabinCryptosystem
+- [x] Github Example 2: https://github.com/aman-17/rabin-cryptosystem
