@@ -1,6 +1,5 @@
 # 📝🔒 Criptografia
-Neste repositório, está centralizado algoritmos em Python para Criptografia e métodos de BruteForce. Todos os códigos foram feitos com JupyterNotebook
-Além dos códigos, links e referências a outras aplicações sobre criptografia serão compartilhados neste repositório.
+Neste repositório, está centralizado algoritmos em Python para Criptografia e métodos de BruteForce. Todos os códigos foram feitos com JupyterNotebook. Além dos códigos, links e referências a outras aplicações sobre criptografia serão compartilhados neste repositório.
 
 ## Outros Algoritmos
 #### Algoritmo de ElGamal
