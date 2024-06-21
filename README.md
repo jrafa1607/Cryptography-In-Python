@@ -1,5 +1,5 @@
 # 📝🔒 Cryptography
-This repository centralizes Python algorithms for Cryptography and BruteForce methods. All codes were made with JupyterNotebook. In addition to the codes, links and references to other cryptography applications will be shared in this repository.
+This repository centralizes Python algorithms for Cryptography and BruteForce methods. All codes were made with Google Colab. In addition to the codes, links and references to other cryptography applications will be shared in this repository.
 
 ## Others Algorithms and Ciphers
 #### ElGamal
