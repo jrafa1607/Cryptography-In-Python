@@ -14,3 +14,6 @@
 - [x] [Implementation Example](https://www.geeksforgeeks.org/rabin-cryptosystem-with-implementation/)
 - [x] [Github Implementation 1](https://github.com/iamvpa/DeterministicRabinCryptosystem)
 - [x] [Github Implementation 2](https://github.com/aman-17/rabin-cryptosystem)
+
+#### Horst Feistel
+- [x] [Crypt Description](https://pt.alegsaonline.com/art/33900)
