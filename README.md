@@ -1,4 +1,4 @@
-# 🔑🔒 Cryptography & BruteForce Algorithms in Python
+# 🔑🔒 Cryptography Algorithms in Python
 
 [![Python 3.x](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
 [![Google Colab](https://img.shields.io/badge/Google-Colab-f9ab00.svg)](https://colab.research.google.com/)
