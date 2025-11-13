@@ -1,19 +1,40 @@
-# 🛡️🔒 Cryptography
-> This repository centralizes Python **Algorithms** for **Cryptography and BruteForce** methods.
+# 🔑🔒 Cryptography & BruteForce Algorithms in Python
+
+[![Python 3.x](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
+[![Google Colab](https://img.shields.io/badge/Google-Colab-f9ab00.svg)](https://colab.research.google.com/)
+
+> This repository is a centralized collection of **Python Algorithms** for **Cryptography** and **Brute Force Methods**.
 > All codes were developed and tested using the **Google Colab** environment.
-> In addition to the practical codes, you will find a curated selection of **valuable links and references** for further applications and in-depth studies in cryptography
 
-### ✨🔑 Algorithms and Ciphers
+---
 
-#### ElGamal
-- [x] [Python Example](https://www.geeksforgeeks.org/elgamal-encryption-algorithm/)
-- [x] [Github Example](https://github.com/RyanRiddle/elgamal)
+### 🛡️ Cryptography Implementations
 
-#### Rabin's CryptoSystem
-- [x] [Access Authorization](https://www.w3.org/History/1993/WWW/AccessAuthorization/Rabin.html)
-- [x] [Implementation Example](https://www.geeksforgeeks.org/rabin-cryptosystem-with-implementation/)
-- [x] [Github Implementation 1](https://github.com/iamvpa/DeterministicRabinCryptosystem)
-- [x] [Github Implementation 2](https://github.com/aman-17/rabin-cryptosystem)
+In this section, you will find implementations and useful links for various ciphers.
 
-#### Horst Feistel
-- [x] [Crypt Description](https://pt.alegsaonline.com/art/33900)
+| Cipher | Description |
+| :--- | :--- |
+| **AES** | Advanced Encryption Standard, A highly secure symmetric block cipher. |
+| **Caesar Cipher** | A cipher where each letter is replaced by a letter some fixed number of positions down the alphabet. |
+| **ElGamal** | Based on the Discrete Logarithm problem. |
+| **Rabin's CryptoSystem** | Cipher based on the Quadratic Square Root problem. |
+| **RSA** | The most popular public-key cipher, based on the prime factorization problem. |
+
+#### ⚙️🔗 Additional Resources
+
+> This section provides a curated selection of valuable links and references for further applications and in-depth studies in cryptography and security testing.
+
+* **ElGamal**
+    * [Python Implementation (GeeksforGeeks)](https://www.geeksforgeeks.org/elgamal-encryption-algorithm/)
+    * [Repository Example (GitHub)](https://github.com/RyanRiddle/elgamal)
+ 
+* **Feistel Structure (Horst Feistel)**
+    * [Cryptosystem Description (Alegsa Online)](https://pt.alegsaonline.com/art/33900)
+ 
+* **Rabin's CryptoSystem**
+    * [Access Authorization (W3)](https://www.w3.org/History/1993/WWW/AccessAuthorization/Rabin.html)
+    * [Implementation (GeeksforGeeks)](https://www.geeksforgeeks.org/rabin-cryptosystem-with-implementation/)
+    * [Implementation 1 (GitHub)](https://github.com/iamvpa/DeterministicRabinCryptosystem)
+    * [Implementation 2 (GitHub)](https://github.com/aman-17/rabin-cryptosystem)
+
+---
