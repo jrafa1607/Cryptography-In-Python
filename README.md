@@ -20,21 +20,21 @@ In this section, you will find implementations and useful links for various ciph
 | **Rabin's CryptoSystem** | Cipher based on the Quadratic Square Root problem. |
 | **RSA** | The most popular public-key cipher, based on the prime factorization problem. |
 
-#### ⚙️🔗 Additional Resources
+---
+
+### ⚙️🔗 Additional Resources
 
 > This section provides a curated selection of valuable links and references for further applications and in-depth studies in cryptography and security testing.
 
-* **ElGamal**
-    * [Python Implementation (GeeksforGeeks)](https://www.geeksforgeeks.org/elgamal-encryption-algorithm/)
-    * [Repository Example (GitHub)](https://github.com/RyanRiddle/elgamal)
+**ElGamal**
+- [Python Implementation (GeeksforGeeks)](https://www.geeksforgeeks.org/elgamal-encryption-algorithm/)<br>
+- [Repository Example (GitHub)](https://github.com/RyanRiddle/elgamal)
  
-* **Feistel Structure (Horst Feistel)**
-    * [Cryptosystem Description (Alegsa Online)](https://pt.alegsaonline.com/art/33900)
+**Feistel Structure (Horst Feistel)**
+- [Cryptosystem Description (Alegsa Online)](https://pt.alegsaonline.com/art/33900)
  
-* **Rabin's CryptoSystem**
-    * [Access Authorization (W3)](https://www.w3.org/History/1993/WWW/AccessAuthorization/Rabin.html)
-    * [Implementation (GeeksforGeeks)](https://www.geeksforgeeks.org/rabin-cryptosystem-with-implementation/)
-    * [Implementation 1 (GitHub)](https://github.com/iamvpa/DeterministicRabinCryptosystem)
-    * [Implementation 2 (GitHub)](https://github.com/aman-17/rabin-cryptosystem)
-
----
+**Rabin's CryptoSystem**
+- [Access Authorization (W3)](https://www.w3.org/History/1993/WWW/AccessAuthorization/Rabin.html)
+- [Implementation (GeeksforGeeks)](https://www.geeksforgeeks.org/rabin-cryptosystem-with-implementation/)
+- [Implementation 1 (GitHub)](https://github.com/iamvpa/DeterministicRabinCryptosystem)
+- [Implementation 2 (GitHub)](https://github.com/aman-17/rabin-cryptosystem)
