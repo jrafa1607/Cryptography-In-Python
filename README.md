@@ -15,7 +15,7 @@ In this section, you will find implementations and useful links for various ciph
 | Cipher | Description |
 | :--- | :--- |
 | **AES** | Advanced Encryption Standard, A highly secure symmetric block cipher. |
-| **Caesar Cipher** | Substitution cipher where each letter is shifted a fixed number of positions down the alphabet. |
+| **Caesar Cipher** | Cipher where each letter is shifted a fixed number of positions down the alphabet. |
 | **ElGamal** | Based on the Discrete Logarithm problem. |
 | **Rabin's CryptoSystem** | Cipher based on the Quadratic Square Root problem. |
 | **RSA** | The most popular public-key cipher, based on the prime factorization problem. |
