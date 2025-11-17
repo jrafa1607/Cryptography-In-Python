@@ -17,7 +17,7 @@ In this section, you will find implementations and useful links for various ciph
 | **AES** | Advanced Encryption Standard, A highly secure symmetric block cipher. |
 | **Caesar Cipher** | Cipher where each letter is shifted a fixed number of positions down the alphabet. |
 | **ElGamal** | Based on the Discrete Logarithm problem. |
-| **Feistel Cipher** | plits block in half, applies round function and reverse subkeys. |
+| **Feistel Cipher** | Splits block in half, applies round function and reverse subkeys. |
 | **Rabin's CryptoSystem** | Cipher based on the Quadratic Square Root problem. |
 
 ---
