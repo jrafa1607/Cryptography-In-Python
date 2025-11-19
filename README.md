@@ -26,9 +26,6 @@ In this section, you will find implementations and useful links for various ciph
 
 > This section provides a curated selection of valuable links and references for further applications and in-depth studies in cryptography and security testing.
  
-**Feistel Structure (Horst Feistel)**
-- [Cryptosystem Description (Alegsa Online)](https://pt.alegsaonline.com/art/33900)
- 
 **Rabin's CryptoSystem**
 - [Access Authorization (W3)](https://www.w3.org/History/1993/WWW/AccessAuthorization/Rabin.html)
 - [Implementation (GeeksforGeeks)](https://www.geeksforgeeks.org/rabin-cryptosystem-with-implementation/)
