@@ -25,10 +25,6 @@ In this section, you will find implementations and useful links for various ciph
 ### ⚙️🔗 Additional Resources
 
 > This section provides a curated selection of valuable links and references for further applications and in-depth studies in cryptography and security testing.
-
-**ElGamal**
-- [Python Implementation (GeeksforGeeks)](https://www.geeksforgeeks.org/elgamal-encryption-algorithm/)<br>
-- [Repository Example (GitHub)](https://github.com/RyanRiddle/elgamal)
  
 **Feistel Structure (Horst Feistel)**
 - [Cryptosystem Description (Alegsa Online)](https://pt.alegsaonline.com/art/33900)
