@@ -1,6 +1,6 @@
 ### ⚙️🛡️ Cryptography Implementations
 
-In this section, you will find implementations and useful links for various ciphers.
+In this section, you will find implementations and useful links for various ciphers:
 
 | Cipher | Description |
 | :--- | :--- |
