@@ -8,7 +8,7 @@
 
 ---
 
-### ⚙️🛡️ Cryptography Implementations
+### ⚙️🛡️ Cryptography Algorithms
 
 In this section, you will find implementations and useful links for various ciphers:
 
