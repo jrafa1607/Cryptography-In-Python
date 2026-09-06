@@ -43,7 +43,7 @@ All algorithms were developed and tested using **Google Colab** notebooks (`.ipy
 
 1. Browse through the repository directories.
 2. Click on any notebook (`.ipynb`) of your choice.
-3. Open it directly in **Google Colab** to execute, tweak, and experiment with the cryptographic implementations in real time.
+3. Open it directly in **Google Colab** to execute, tweak, and experiment with the implementations in real time.
 4. [Optional] Access and run the project directly through GitHub integration with Google Colab.
 
 ---
