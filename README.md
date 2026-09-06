@@ -12,7 +12,7 @@ Designed for students, researchers, and security enthusiasts, the project offers
 | --- | --- |
 | 🎯 **Practical Learning** | Direct access to hands-on code for foundational and modern ciphers. |
 | ⚡ **Zero Setup** | Fully configured to run instantly via **Google Colab**. |
-| 📈 **From Classical to Modern** | Covers everything from basic Caesar shifts to complex asymmetric systems like ElGamal and Rabin. |
+| 📈 **From Classical to Modern** | Covers from basic Caesar to complex asymmetric systems like ElGamal and Rabin. |
 | 📚 **Well-Documented** | Includes clear explanations and mathematical references for each implemented algorithm. |
 
 ---
