@@ -17,7 +17,7 @@ Designed for students, researchers, and security enthusiasts, the project offers
 
 ---
 
-#### ⚙️🛡️ Implemented Ciphers & Algorithms
+#### 🛡️ Implemented Ciphers & Algorithms
 In this section, you will find clean implementations, security analysis notes, and useful code references:
 
 | Cipher | Description |
