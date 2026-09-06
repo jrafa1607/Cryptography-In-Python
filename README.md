@@ -18,8 +18,8 @@ Designed for students, researchers, and security enthusiasts, the project offers
 ---
 
 #### ⚙️🛡️ Implemented Ciphers & Algorithms
+In this section, you will find clean implementations, security analysis notes, and useful code references:
 
-In this section, you will find clean implementations, security analysis notes, and useful code references for various ciphers:
 | Cipher | Description |
 | :--- | :--- |
 | **AES** | Advanced Encryption Standard, A highly secure symmetric block cipher. |
